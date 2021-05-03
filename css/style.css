@@ -39,7 +39,7 @@
     background-color: #fcfcfa;
 }
 #top div {
-    
+ 
 }
 .color1 {
     background-color: #f7f6f2;
@@ -85,27 +85,27 @@
     height: 500px;
     border: 1px solid black;
 }
-#tui {
+.tui {
     float: left;
     margin:50px;
     width:400px;
     height: 250px;
 }
-#tui img {
+.tui img {
     float:left;
     width:178px;
     height: 248px;
 }
-#tui h2 {
+.tui h2 {
     float:left;
     padding-left:40px;
 }
-#tui h3 {
+.tui h3 {
     float:left;
     padding-left:40px;
     padding-top:10px;
 }
-#tui .wen {
+.tui .wen {
     float:left;
     padding-left:40px;
     padding-top:10px;
