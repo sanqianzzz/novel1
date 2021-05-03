@@ -85,29 +85,30 @@
     height: 500px;
     border: 1px solid black;
 }
-div.tui {
+.tui {
     float: left;
     margin:50px;
     width:400px;
     height: 250px;
 }
-div.tui img {
+.tui img {
     float:left;
     width:178px;
     height: 248px;
 }
-div.tui h2 {
+.tui h2 {
     float:left;
     padding-left:40px;
 }
-div.tui h3 {
+.tui h3 {
     float:left;
     padding-left:40px;
     padding-top:10px;
 }
-div.tui .wen {
+.tui .wen {
     float:left;
     padding-left:40px;
     padding-top:10px;
     width:170px;
 }
+
